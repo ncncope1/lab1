@@ -1,19 +1,19 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name:Hunter Culp
+- Email:culp.30@wright.edu
 
 ## Part 1 Answers
 
-1.
-2.
-3.
-4.
-5.
+1.mkdir dirA
+2.mkdir 'dir B'
+3.cd "dir B"
+4.DirA as it stops one from having to use the quotes and other methods of creating the space
+5.mv "dirB' dirA
 
 ## Part 2 Answers
 
-1.
+1.touch test.txt
 2. File contents:
 
 ```
