@@ -22,8 +22,8 @@
 
 ## Part 3 Answers
 
-1.
-2.
+1.cp test.txt .hiddentext.txt
+2.ls- a
 
 ## Part 4 Answers
 
