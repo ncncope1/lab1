@@ -39,6 +39,7 @@ For each, write the command used or answer the question posed.
 5
 6Bob can add files as bob is the user whom has the access to the home directory and is given the rights to add to it
 7
+exit
 
 
 Part 4 Answers
